@@ -1,0 +1,6 @@
+{
+    "/api": {
+      "target": "https://pujarispl.onrender.com/",
+      "secure": false
+    }
+  }

@@ -74,7 +74,8 @@
               "browserTarget": "polist:build:production"
             },
             "development": {
-              "browserTarget": "polist:build:development"
+              "browserTarget": "polist:build:development",
+              "proxyConfig": "src/proxy.conf.json"
             }
           },
           "defaultConfiguration": "development"
